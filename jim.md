@@ -1,4 +1,4 @@
-#Jim Kwik
+# Jim Kwik
 
 ### Jim's number: +13102999362
 
@@ -18,4 +18,5 @@ MOM = `motivation observation and methods`
 P*E*S3 = `purpose, energy, small simple step`
 
 [book website](https://www.limitlessbook.com)
+
 [Jim website](https://jimkwik.com)
